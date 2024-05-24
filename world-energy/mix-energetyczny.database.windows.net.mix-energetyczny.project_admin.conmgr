@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="mix-energetyczny.database.windows.net.mix-energetyczny.project_admin"
+  DTS:DTSID="{D2B82977-3EFC-43EA-8699-B0EBEF3F6848}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=mix-energetyczny.database.windows.net;User ID=project_admin;Initial Catalog=mix-energetyczny;Persist Security Info=True;Application Name=SSIS-world-energy-{D2B82977-3EFC-43EA-8699-B0EBEF3F6848}mix-energetyczny.database.windows.net.mix-energetyczny.project_admin;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQsv59QUgo0q/VMCRna6nKAAAAAACAAAAAAAQZgAAAAEAACAAAAB1HL2OxZ4vgy3m2Qi/RUBgm4I6Ljy3v8TPv+Lb/KbWNgAAAAAOgAAAAAIAACAAAACHFj8s1tNot7B7G8b6SV8ynotkJojhX8JK/Xl07irEfIAAAAB8ZWUT51HAsSdyAuEDEKGVy+iuHYU047HWT2dkF7EW1dFqpF1qvAmlpsZB/9OI6xwzqMWFiYOUMRByiE6rYcx+/vO5O75PuH3fvVMs4JkwGnjKNARIX5osygfW2IYQU+SXwhY1lokMMwoEhkyi1OIun8fDAe1HK0greW+cpLXe70AAAADiGWxBii23kBGTPezCJ0CTC4vCyJbGhlLFLLm5RMCg2ZCctjbwSYPTe8c1A155RK35Y/XLSAqIiBWvH/h6b9aw</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
